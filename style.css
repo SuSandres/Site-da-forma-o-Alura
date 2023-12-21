@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0 ;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{  
@@ -25,7 +25,6 @@
 
 .projeto-div{
     text-align: center;
-    padding: 24px o;
     padding: 50px 0;
 }
 
