@@ -20,11 +20,12 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px ;
+    font-size: 24px;
 }
 
 .projeto-div{
     text-align: center;
+    padding: 24px o;
     padding: 50px 0;
 }
 
